@@ -43,8 +43,8 @@ img {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
-  padding-top: clamp(20px, calc(10px + 5vw), 64px);
-  padding-bottom: clamp(20px, calc(10px + 5vw), 64px);
+  padding-top: clamp(20px, calc(10px + 5vw), 34px);
+  padding-bottom: clamp(20px, calc(10px + 5vw), 34px);
 }
 .section {
   padding-top: clamp(20px, calc(10px + 5vw), 64px);
